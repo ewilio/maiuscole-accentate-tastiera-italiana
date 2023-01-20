@@ -1,6 +1,6 @@
 # Maiuscole Accentate e Caratteri Aggiuntivi per Tastiera Italiana
 
-<img src="https://github.com/ewilio/maiuscole-accentate-tastiera-italiana/blob/master/extrakeys-ita.png" alt="Anteprima" width="80%"/>
+<img src="https://github.com/ewilio/maiuscole-accentate-tastiera-italiana/blob/main/extrakeys-ita.png" alt="Anteprima" width="80%"/>
 
 Il file aggiunge combinazioni di tasti rapidi in Windows per digitare le vocali accentate maiuscole usate in Italiano ``À È É Ì Ò Ù``.
 
